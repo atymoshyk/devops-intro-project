@@ -57,8 +57,8 @@
       },
       {
         "type": "amazon-ebs",
-        "access_key": "{{ user `AWS_ACCESS_KEY_ID` }}",
-        "secret_key": "{{ user `AWS_SECRET_ACCESS_KEY` }}",
+        "access_key": "AKIAJLCQZN3OIGUS3I7A",
+        "secret_key": "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",
         "region": "us-east-1",
         "source_ami": "ami-10b68a78",
         "instance_type": "t1.micro",
